@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WabTest", "WabTest\WabTest.csproj", "{077C299D-D9A0-4E06-A328-C7265ED75660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077C299D-D9A0-4E06-A328-C7265ED75660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077C299D-D9A0-4E06-A328-C7265ED75660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077C299D-D9A0-4E06-A328-C7265ED75660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077C299D-D9A0-4E06-A328-C7265ED75660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A115AE9-7C70-4867-80AD-548990A75B77}
+	EndGlobalSection
+EndGlobal
